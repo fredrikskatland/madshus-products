@@ -1,0 +1,11 @@
+# Madshus Product Information
+
+This document contains information about {{count}} Madshus products. Use this information to answer questions about Madshus products.
+
+## Products
+
+{{products}}
+
+## Instructions
+
+When answering questions about Madshus products, use only the information provided above. If you don't have information about a specific product or feature, say so.
