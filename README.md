@@ -25,7 +25,7 @@ This project uses Poetry for dependency management.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/madshus-products.git
+git clone https://github.com/fredrikskatland/madshus-products.git
 cd madshus-products
 
 # Install dependencies with Poetry
